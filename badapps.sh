@@ -14,6 +14,8 @@
 #  Dont have the bundle identifier of the app?
 #   No problem! Just use the '--get-id' option and either give it the name
 #   of the app or the path to the app.
+#
+# Watch the demo: https://git.io/Jfc0n
 
 VERSION="2020.05.07"
 
