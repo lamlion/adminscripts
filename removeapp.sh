@@ -59,7 +59,7 @@ remove_app(){
 
 usage(){
     printf "%s" "\
-usage: badapps [--help] [--log-file \"FILE\"] [--app-list \"FILE\"] [--version]
+usage: badapps [--help] [--log-file \"FILE\"] [--app-list \"FILE\"] [--version] [BUNDLE_ID]
 
 optional arguments:
    -h, --help            show this help message and exit
