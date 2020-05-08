@@ -2,6 +2,18 @@
 #
 # by Siddharth Dushantha 2020
 #
+# Description
+#  If you are a school IT admin, you have probably told your students not use
+#  certain apps (e.g. VPN and Torrenting apps), but of course they install them
+#  anyways.
+# 
+#  With this script, you can feed it a file with a list of bundle identifiers
+#  of the app that you dont allow and it will delete it off the student's
+#  computer with ease. 
+#
+#  Dont have the bundle identifier of the app?
+#   No problem! Just use the '--get-id' option and either give it the name
+#   of the app or the path to the app.
 
 VERSION="2020.05.07"
 
