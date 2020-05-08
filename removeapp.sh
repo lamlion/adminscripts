@@ -5,7 +5,8 @@
 #
 # Description
 #  This script lets you delete a single app or a list of app with ease
-#  through the commandline.
+#  by just providing the bundle identifier of the app or a list of
+#  bundle identifiers in file
 #
 
 VERSION="2020.06.07"
