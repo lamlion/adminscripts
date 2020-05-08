@@ -8,6 +8,8 @@
 #  by just providing the bundle identifier of the app or a list of
 #  bundle identifiers in file
 #
+# 
+# Watch the demo: https://git.io/JfcEG
 
 VERSION="2020.06.07"
 
