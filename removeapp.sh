@@ -2,13 +2,11 @@
 #
 # by Siddharth Dushantha 2020
 #
-#
 # Description
 #  This script lets you delete a single app or a list of app with ease
 #  by just providing the bundle identifier of the app or a list of
 #  bundle identifiers in file
 #
-# 
 # Watch the demo: https://git.io/JfcEG
 
 VERSION="2020.06.07"
